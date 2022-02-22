@@ -1,18 +1,23 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+.idea
+node_modules/
+.sass-cache/
+bower_components/
+app/bower_components
+.DS_Store
+.tmp
+ios
+.yo-rc.json
+.jshintrc
+.gitattributes
+.editorconfig
+npm-debug.log
+.idea_modules/
+/out/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+.tern-project
+build-analyze.log
+dist/
+logs/*.log
